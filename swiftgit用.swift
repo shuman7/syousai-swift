@@ -3,4 +3,7 @@ let stone = "marui"
 
 
 //変数
-var river: String = "opperiver"
+var river: String = "oppe"
+
+//swift code書くよ
+
