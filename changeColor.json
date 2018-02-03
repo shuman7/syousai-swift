@@ -1,0 +1,7 @@
+@IBAction func tapGreen(_ sender: Any) {
+        view.backgroundColor = UIColor.green
+    }
+
+@IBAction func tapWhite(_ sender: Any) {
+        view.backgroundColor = UIColor.white
+    }
